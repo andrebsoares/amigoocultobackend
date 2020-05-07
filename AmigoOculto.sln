@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmigoOculto.Domain", "AmigoOculto.Domain\AmigoOculto.Domain.csproj", "{1666CE46-900E-4D29-8D59-C949FCDB917A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmigoOculto.Repository", "AmigoOculto.Repository\AmigoOculto.Repository.csproj", "{F42FEB52-34B1-4F37-B79B-1A8949B380D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmigoOculto.Service", "AmigoOculto.Service\AmigoOculto.Service.csproj", "{1372DF5B-157D-41F8-B2FD-D5796EFE0A73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmigoOculto.Web.API", "AmigoOculto.Web.API\AmigoOculto.Web.API.csproj", "{6F8D6F49-8139-4894-84AE-1C5F3D2A0E2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1666CE46-900E-4D29-8D59-C949FCDB917A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1666CE46-900E-4D29-8D59-C949FCDB917A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1666CE46-900E-4D29-8D59-C949FCDB917A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1666CE46-900E-4D29-8D59-C949FCDB917A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42FEB52-34B1-4F37-B79B-1A8949B380D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42FEB52-34B1-4F37-B79B-1A8949B380D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42FEB52-34B1-4F37-B79B-1A8949B380D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42FEB52-34B1-4F37-B79B-1A8949B380D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1372DF5B-157D-41F8-B2FD-D5796EFE0A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1372DF5B-157D-41F8-B2FD-D5796EFE0A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1372DF5B-157D-41F8-B2FD-D5796EFE0A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1372DF5B-157D-41F8-B2FD-D5796EFE0A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8D6F49-8139-4894-84AE-1C5F3D2A0E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8D6F49-8139-4894-84AE-1C5F3D2A0E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8D6F49-8139-4894-84AE-1C5F3D2A0E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8D6F49-8139-4894-84AE-1C5F3D2A0E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200862E3-5C3D-4E8E-9618-FA7F7474120C}
+	EndGlobalSection
+EndGlobal
